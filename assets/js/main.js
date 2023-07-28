@@ -13,8 +13,8 @@ const imageDecor = document.getElementById("hero__mobile-decor");
 
 // An array of image sources for hero section decoration
 const imageSources = [
-  "./assets/images/image-4.png",
-  "./assets/images/image-5.png",
+  "assets/images/image-4.png",
+  "assets/images/image-5.png",
 ];
 
 // We obtain the current theme that the interface has by validating the dark-theme class
