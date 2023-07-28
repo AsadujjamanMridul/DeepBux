@@ -20,8 +20,9 @@
 <br/>
 
 <div>
-  <img src="screenshots/light-mobile.png" alt="light-mobile" align="center" width="50%"  style="border-radius:2%">
-  <img src="screenshots/dark-mobile.png" alt="dark-mobile"  align="center" width="50%"  style="border-radius:2%">
+  <img src="screenshots/light-mobile.png" alt="light-mobile" align="center" width="40%"  style="border-radius:2%">
+  <div width="10%"/>
+  <img src="screenshots/dark-mobile.png" alt="dark-mobile"  align="center" width="40%"  style="border-radius:2%">
 <div>
 
 <h5 align="center">
