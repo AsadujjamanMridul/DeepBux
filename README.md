@@ -20,14 +20,14 @@
 <br/>
 
 <div style="display: flex; justify-content: center">
-  <div style="width: 40%">
+  <div style="flex: 40%; text-align: center;">
     <img src="screenshots/light-mobile.png" alt="light-mobile" align="center" style="border-radius:2%">
     <h5 align="center">
       Light Theme (mobile)
     </h5>
   </div>
-  <div style="width: 10%"></div>
-  <div style="width: 40%">
+  <div style="flex: 10%; text-align: center;"></div>
+  <div style="flex: 40%; text-align: center;">
     <img src="screenshots/dark-mobile.png" alt="dark-mobile"  align="center" style="border-radius:2%">
     <h5 align="center">
       Dark Theme (mobile)
