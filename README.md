@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-<div align="center">
+<div>
   <img src="screenshots/light-mobile.png" alt="light-mobile" align="center" width="50%"  style="border-radius:2%">
   <img src="screenshots/dark-mobile.png" alt="dark-mobile"  align="center" width="50%"  style="border-radius:2%">
 <div>
