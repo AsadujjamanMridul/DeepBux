@@ -233,14 +233,14 @@ body.dark-theme{
 .hero__container {
   display: flex;
   justify-content: center;
-  /* align-items: center; */
+  align-items: center;
 }
 
 /*=============== HERO SECTION ===============*/
 .hero__content {
   height: 100%;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 6fr 5fr;
 }
 
 /*=============== HERO SECTION : LEFT PART -- START ===============*/
